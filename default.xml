@@ -32,7 +32,7 @@
 
 <!-- Projects -->
 
-  <project path="build" name="ProjectLlama/android_build">
+  <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
