@@ -25,7 +25,8 @@
 
   <remote  name="aokp"
            fetch="https://github.com/aokp/"
-           review="gerrit.aokp.co" />
+           review="gerrit.aokp.co" 
+           revision="refs/heads/jb" />
 
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
