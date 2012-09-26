@@ -279,6 +279,7 @@
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Phone" name="packages_apps_Phone" remote="SlimRoms" />
   <project path="packages/apps/PhoneMotion" name="ProjectLlama/android_packages_apps_PhoneMotion" />
+  <project path="packages/apps/Pinata" name="ProjectLlama/android_pacakges_apps_Pinata" />
   <project path="packages/apps/Protips" name="ProjectLlama/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
@@ -291,8 +292,6 @@
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
-  <!-- Vanilla2 is a massive WIP project, and is not specified to build anywhere. -->
-  <project path="packages/apps/Vanilla2" name="ProjectLlama/android_packages_apps_Vanilla2" />
   <project path="packages/apps/VideoEditor" name="CyanogenMod/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
