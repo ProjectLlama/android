@@ -16,7 +16,7 @@
            revision="refs/heads/jb" />
 
   <remote  name="cm"
-           fetch="https://github.com/Cyanogenmod/"
+           fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
 
   <remote  name="ProjectLlama"
