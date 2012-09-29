@@ -20,8 +20,7 @@
            review="review.cyanogenmod.com" />
 
   <remote  name="ProjectLlama"
-           fetch="https://github.com/ProjectLlama/" 
-           review="gerrit.projectllama.tk" />
+           fetch="https://github.com/ProjectLlama/" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
@@ -235,7 +234,7 @@
   <project path="hardware/invensense" name="android_hardware_invensense" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="ProjetLlama/android_hardware_msm7k" />
+  <project path="hardware/msm7k" name="android_hardware_msm7k" remote="ProjectLlama"/>
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" />
