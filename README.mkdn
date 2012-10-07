@@ -15,7 +15,13 @@ Then to sync up:
 
     repo sync
 
-Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.com/) for building instructions.
+To select what to build do
+
+    source build/envsetup.sh; brunch
+
+Finally, to build do
+
+    make bacon
 
 For more information on this Github Organization and how it is structured, 
 please [read the wiki article](http://wiki.cyanogenmod.com/index.php/Github_Organization)
