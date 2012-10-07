@@ -53,6 +53,7 @@
   <project path="device/generic/goldfish" name="android_device_generic_goldfish" />
   <project path="device/google/accessory/arduino" name="android_device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="android_device_google_accessory_demokit" />
+  <project path="device/htc/marvel" name="android_device_htc_marvel" remote="ProjectLlama" />
   <project path="device/sample" name="android_device_sample" />
   <project path="device/ti/panda" name="android_device_ti_panda" />
   <project path="docs/source.android.com" name="android_docs_source.android.com" />
