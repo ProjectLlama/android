@@ -12,7 +12,6 @@
 
   <remote  name="aokp"
            fetch="https://github.com/aokp/"
-           review="gerrit.aokp.co" 
            revision="jb" />
 
   <remote  name="cm"
