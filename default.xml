@@ -277,7 +277,7 @@
   <project path="packages/apps/MusicFX" name="android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" />
-  <project path="packages/apps/Phone" name="packages_apps_Phone" remote="aokp" />
+  <project path="packages/apps/Phone" name="packages_apps_Phone" remote="aokp" revision="jb" />
   <project path="packages/apps/PhoneMotion" name="android_packages_apps_PhoneMotion" remote="ProjectLlama" />
   <project path="packages/apps/Pinata" name="android_packages_apps_Pinata" remote="ProjectLlama" />
   <project path="packages/apps/Protips" name="android_packages_apps_Protips" remote="ProjectLlama" />
