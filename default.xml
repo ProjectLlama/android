@@ -261,7 +261,7 @@
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" />
-  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="SlimRoms" revision="refs/heads/jb" />
+  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" />
@@ -272,7 +272,7 @@
   <project path="packages/apps/KeyChain" name="android_packages_apps_KeyChain" />
   <project path="packages/apps/Launcher2" name="android_packages_apps_Launcher2" />
   <project path="packages/apps/LegacyCamera" name="android_packages_apps_LegacyCamera" />
-  <project path="packages/apps/Mms" name="packages_apps_Mms" remote="SlimRoms" revision="refs/heads/jb" />
+  <project path="packages/apps/Mms" name="android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" />
