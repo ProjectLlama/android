@@ -12,6 +12,7 @@
 
   <remote  name="aokp"
            fetch="https://github.com/AOKP/"
+           review="http://gerrit.sudoservers.com"
            revision="jb" />
 
   <remote  name="cm"
