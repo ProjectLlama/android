@@ -229,7 +229,7 @@
   <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard" />
   <project path="frameworks/rs" name="android_frameworks_rs" />
   <project path="frameworks/support" name="android_frameworks_support" />
-  <project path="frameworks/testing" name="android_frameworks_testing" />
+  <!-- <project path="frameworks/testing" name="android_frameworks_testing" /> -->
   <project path="frameworks/wilhelm" name="android_frameworks_wilhelm" />
   <project path="gdk" name="android_gdk" />
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" />
