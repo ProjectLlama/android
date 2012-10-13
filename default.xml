@@ -20,7 +20,8 @@
            review="review.cyanogenmod.com" />
 
   <remote  name="ProjectLlama"
-           fetch="https://github.com/ProjectLlama/" />
+           fetch="https://github.com/ProjectLlama/"
+           review="http://llamagerrit.dyndns.org:8080/" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
