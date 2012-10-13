@@ -27,7 +27,7 @@
 
 <!-- Default -->
 
-  <default revision="jb"
+  <default revision="jellybean"
            remote="cm"
            sync-j="4" />
 
