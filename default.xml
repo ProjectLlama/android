@@ -39,7 +39,7 @@
 
   <project path="android" name="android" remote="ProjectLlama" />
 
-  <project path="testing" name="test-repo" remote="ProjectLlama" revision="master" />
+  <project path="testing" name="test-repo" remote="ProjectLlama" />
   <project path="abi/cpp" name="android_abi_cpp" />
   <project path="bionic" name="android_bionic" remote="ProjectLlama" />
   <project path="bootable/bootloader/legacy" name="android_bootable_bootloader_legacy" />
