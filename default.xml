@@ -23,6 +23,9 @@
            fetch="https://github.com/ProjectLlama/"
            review="http://llamagerrit.dyndns.org:8080/" />
 
+  <remote  name="github"
+           fetch="https://github.com/" />
+
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
