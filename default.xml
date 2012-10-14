@@ -48,7 +48,7 @@
   <project path="bootable/recovery" name="android_bootable_recovery" />
   <project path="cts" name="android_cts" />
   <project path="dalvik" name="android_dalvik" />
-  <project path="development" name="android_development" />
+  <project path="development" name="platform_development" remote="aokp" revision="jb" />
   <project path="device/common" name="android_device_common" />
   <project path="device/generic/armv7-a-neon" name="android_device_generic_armv7-a-neon" />
   <project path="device/generic/armv7-a" name="android_device_generic_armv7-a" />
