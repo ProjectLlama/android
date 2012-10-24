@@ -351,6 +351,7 @@
   <project path="system/security" name="android_system_security" />
   <project path="system/su" name="android_system_su" />
   <project path="system/vold" name="android_system_vold" />
+  <project path="vendor/htc" name="android_vendor_htc" remote="ProjectLlama" />
   <project path="vendor/llama" name="android_vendor_llama" remote="ProjectLlama" />
   <project path="vendor/samsung/maguro" name="android_vendor_samsung_maguro" remote="ProjectLlama" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" />
