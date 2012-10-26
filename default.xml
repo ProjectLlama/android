@@ -277,6 +277,7 @@
   <project path="packages/apps/HTMLViewer" name="android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="android_packages_apps_KeyChain" />
   <project path="packages/apps/LegacyCamera" name="android_packages_apps_LegacyCamera" />
+  <project path="packages/apps/LlamaWallpapers" name="android_packages_apps_LlamaWallpapers" remote="ProjectLlama" revision="jellybean" />
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" />
   <project path="packages/apps/MusicFX" name="android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="aokp" revision="jb" />
