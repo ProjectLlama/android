@@ -62,7 +62,7 @@
   <project path="device/htc/shooteru" name="android_device_htc_shooteru" remote="ProjectLlama" />
   <project path="device/htc/msm8660-common" name="android_device_htc_msm8660-common" remote="ProjectLlama" />
   <project path="device/samsung/maguro" name="android_device_samsung_maguro" remote="ProjectLlama" />
-  <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="ProjectLlama" />
+  <project path="device/samsung/tuna" name="android_device_samsung_tuna" />
   <project path="device/sample" name="android_device_sample" />
   <project path="device/ti/panda" name="android_device_ti_panda" />
   <project path="docs/source.android.com" name="android_docs_source.android.com" />
