@@ -21,7 +21,7 @@
 
   <remote  name="ProjectLlama"
            fetch="https://github.com/ProjectLlama/"
-           review="llamagerrit.dyndns.org:8080" />
+           review="review.projectllama.tk" />
 
   <remote  name="github"
            fetch="https://github.com/" />
