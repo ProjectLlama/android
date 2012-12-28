@@ -41,7 +41,6 @@
 
   <project path="android" name="android" remote="ProjectLlama" />
   <project path="testing" name="test-repo" remote="ProjectLlama" />
-  <project path="hardware/msm7k" name="android_hardware_msm7k" remote="ProjectLlama"/>
 
 	<!-- Applications -->
 	  <project path="packages/apps/LlamaWallpapers" name="android_packages_apps_LlamaWallpapers" remote="ProjectLlama" />
@@ -56,12 +55,13 @@
 	  <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="ProjectLlama" />
 	  <project path="device/htc/marvel" name="android_device_htc_marvel" remote="ProjectLlama" />
 	  <project path="device/htc/shooteru" name="android_device_htc_shooteru" remote="ProjectLlama" />
+	  <project path="hardware/msm7k" name="android_hardware_msm7k" remote="ProjectLlama"/>
 	  <project path="device/htc/msm8660-common" name="android_device_htc_msm8660-common" remote="ProjectLlama" />
 	  <project path="device/samsung/maguro" name="android_device_samsung_maguro" remote="ProjectLlama" />
 	  <!-- Kernels -->
 	  <project path="kernel/htc/endeavoru" name="android_kernel_htc_endeavoru" remote="ProjectLlama" />
 	  <project path="kernel/htc/msm7227" name="android_kernel_htc_msm7227" remote="ProjectLlama" />
-	  <project path="kernel/samsung/tuna" name="android_kernel_samsung_tuna" remote="ProjectLlama" />
+	  <project path="kernel/samsung/tuna" name="android_kernel_samsung_tuna" remote="ProjectLlama" revision="jb" />
 	  <!-- Vendors -->
 	  <project path="vendor/htc" name="android_vendor_htc" remote="ProjectLlama" />
 	  <project path="vendor/llama" name="android_vendor_llama" remote="ProjectLlama" />
