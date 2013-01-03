@@ -35,7 +35,7 @@
 
 <!-- Project Llama Projects -->
 
-  <project path="build" name="android_build" remote="ProjectLlama" >
+  <project path="build" name="android_build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
